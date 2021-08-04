@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielOMartins
-- 👀 I’m interested in programming languages like java, python and others
-- 🌱 I’m currently learning java and python
+- 👀 I’m interested in programming languages like java and Front-End development
+- 🌱 I’m currently learning java Web
 - 📫 How to reach me danielomartins.16@gmail.com
 
 <!---
